@@ -1,0 +1,25 @@
+2014-11-27 22:11:20,233 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-tut:spring-tut:0.0.1-SNAPSHOT @ C:\Users\van\Google Drive\Java2\Ex\FinalProject\spring-tut\pom.xml.
+2014-11-27 22:11:32,500 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-27 22:11:32,525 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-11-27 22:11:32,526 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-11-27 22:11:32,546 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-27 22:11:32,547 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\van\Google Drive\Java2\Ex\FinalProject\spring-tut\src\test\resources
+2014-11-27 22:11:35,351 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-27 22:11:35,356 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-11-27 22:11:35,358 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-11-27 22:11:35,366 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-27 22:11:35,366 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\van\Google Drive\Java2\Ex\FinalProject\spring-tut\src\test\resources
+2014-11-27 22:12:20,072 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2014-11-27 22:12:20,274 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-tut:spring-tut:0.0.1-SNAPSHOT @ C:\Users\van\Google Drive\Java2\Ex\FinalProject\spring-tut\pom.xml.
+2014-11-27 22:12:21,461 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-tut/src/main/java
+2014-11-27 22:12:21,462 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /spring-tut/src/main/resources overlaps with sources folder /spring-tut/src/main/resources
+2014-11-27 22:12:21,462 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Resources folder /spring-tut/src/main/webapp overlaps with sources folder /spring-tut/src/main/webapp
+2014-11-27 22:12:21,468 [Worker-4] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-tut/src/main/test
+2014-11-27 22:12:22,853 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: spring-tut:spring-tut:0.0.1-SNAPSHOT @ C:\Users\van\Google Drive\Java2\Ex\FinalProject\spring-tut\pom.xml.
+2014-11-27 22:12:23,792 [Worker-4] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-tut
+2014-11-27 22:12:23,803 [Worker-4] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 3 sec
+2014-11-27 22:12:25,057 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-27 22:12:25,058 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2014-11-27 22:12:25,106 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2014-11-27 22:12:25,244 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2014-11-27 22:12:25,252 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\van\Google Drive\Java2\Ex\FinalProject\spring-tut\src\test\resources
